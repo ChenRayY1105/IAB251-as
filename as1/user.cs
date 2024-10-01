@@ -29,5 +29,8 @@ namespace as1
 
             return false;
         }
+        
+        public bool delete_user(string user_id)
+        { return false; }
     }
 }
